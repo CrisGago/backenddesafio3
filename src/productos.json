@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "title": "modulo1",
+    "description": "presupuestador",
+    "price": "25000",
+    "thumbnail": "img1",
+    "code": "sp142",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "title": "modulo2",
+    "description": "ppto y planif",
+    "price": "45000",
+    "thumbnail": "img2",
+    "code": "sp143",
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "title": "modulo5",
+    "description": "control",
+    "price": "55000",
+    "thumbnail": "img5",
+    "code": "sp150",
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "title": "modulo4",
+    "description": "control",
+    "price": "44000",
+    "thumbnail": "img4",
+    "code": "sp140",
+    "stock": 44
+  },
+  {
+    "id": 5,
+    "title": "modulo6",
+    "description": "control",
+    "price": "65000",
+    "thumbnail": "img6",
+    "code": "sp160",
+    "stock": 15
+  },
+  {
+    "id": 7,
+    "title": "modulo7",
+    "description": "control",
+    "price": "57000",
+    "thumbnail": "img7",
+    "code": "sp170",
+    "stock": 17
+  },
+  {
+    "id": 8,
+    "title": "modulo8",
+    "description": "control",
+    "price": "58000",
+    "thumbnail": "img8",
+    "code": "sp180",
+    "stock": 85
+  },
+  {
+    "id": 9,
+    "title": "modulo9",
+    "description": "control",
+    "price": "98000",
+    "thumbnail": "img9",
+    "code": "sp180",
+    "stock": 95
+  },
+  {
+    "id": 10,
+    "title": "modulo10",
+    "description": "control",
+    "price": "10000",
+    "thumbnail": "img10",
+    "code": "sp100",
+    "stock": 10
+  }
+
+
+]
